@@ -1,5 +1,5 @@
 ---
-![Hello](https://media3.giphy.com/media/CHVJUunnMTaznYCZQv/200.gif?cid=6c09b952ce8ed0a5e0ff5b35da451988feed9e3d1a6cab9a&rid=200.gif&ct=ts)
+![Hello](https://i.ibb.co/VmtZktC/ezgif-com-video-to-gif.gif)
 ---
 ## ***I'm a software engineer who loves using technology to solve problems and make people's lives easier. I'm constantly learning and pushing myself to become a better developer.***
 
