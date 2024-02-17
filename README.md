@@ -17,8 +17,6 @@ I've worked on a variety of projects throughout my career, including:
 - Creating engaging user interfaces
 - Self made projects
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edcreation&theme=react&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edcreation&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests
